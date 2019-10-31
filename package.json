@@ -12,6 +12,6 @@
     "dependencies": {
         "express": "^4.17.1",
         "jshint": "^2.10.2",
-        "mongoose": "^5.5.12"
+        "mongoose": "^5.7.5"
     }
 }
